@@ -162,7 +162,7 @@ The project uses real-world map data around Bengaluru, India. The city network i
 Add your city map image here:
 
 <p align="center">
-  <img src="assets/city_map.png" width="500"/>
+  <img src="assets/city_map.png" width="300"/>
 </p>
 
 Example folder path:
@@ -186,7 +186,9 @@ The route map includes:
 
 Add your routing image here:
 
-![Vayumarg Routing Visualization](assets/route_visualization.png)
+<p align = 'center'>
+<img src="assets/route_visualization.png" width="500"/>
+</p>
 
 Example folder path:
 
