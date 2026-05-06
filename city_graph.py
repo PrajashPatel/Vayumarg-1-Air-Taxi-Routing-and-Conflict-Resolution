@@ -8,7 +8,7 @@ ox.settings.log_console = True
 
 center_point = (12.9716, 77.5946)
 
-# Step 1: Download raw graph
+# stp:1 Download raw graph
 G = ox.graph_from_point(
     center_point,
     dist=3000,

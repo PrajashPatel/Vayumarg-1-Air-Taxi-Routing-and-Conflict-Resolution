@@ -5,7 +5,7 @@ from shapely.geometry import Point, Polygon
 import matplotlib.pyplot as plt
 
 
-# GET CITY GRAPH
+# 1. GET CITY GRAPH
 ox.settings.use_cache = True
 ox.settings.log_console = True
 
