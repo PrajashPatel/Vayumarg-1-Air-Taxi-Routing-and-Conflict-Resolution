@@ -161,7 +161,9 @@ The project uses real-world map data around Bengaluru, India. The city network i
 
 Add your city map image here:
 
-![City Map](assets/city_map.png)
+<p align="center">
+  <img src="assets/city_map.png" width="500"/>
+</p>
 
 Example folder path:
 
