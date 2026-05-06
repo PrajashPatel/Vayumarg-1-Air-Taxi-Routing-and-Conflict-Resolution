@@ -322,7 +322,6 @@ The following improvements are planned for future versions:
 - improve the battery model using payload, speed, altitude, and distance
 - support emergency, medical, delivery, and passenger drone categories
 - add priority-based scheduling
-- add an interactive map using Folium or a web dashboard
 - export flight summaries to CSV or JSON
 - support larger city-scale simulations
 - build a user-friendly interface for non-technical users
