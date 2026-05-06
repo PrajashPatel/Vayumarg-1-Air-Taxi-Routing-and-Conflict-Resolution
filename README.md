@@ -161,9 +161,7 @@ The project uses real-world map data around Bengaluru, India. The city network i
 
 Add your city map image here:
 
-```markdown
 ![City Map](assets/city_map.png)
-```
 
 Example folder path:
 
@@ -186,9 +184,7 @@ The route map includes:
 
 Add your routing image here:
 
-```markdown
 ![Vayumarg Routing Visualization](assets/route_visualization.png)
-```
 
 Example folder path:
 
@@ -203,7 +199,7 @@ assets/route_visualization.png
 To save the generated route visualization, add this line before `plt.show()` in the Python file:
 
 ```python
-plt.savefig("assets/route_visualization.png", dpi=300, bbox_inches="tight")
+plt.savefig("assets/route_visualisation.png", dpi=300, bbox_inches="tight")
 plt.show()
 ```
 
@@ -239,7 +235,7 @@ Taxi 1 | Route time = 420.0s | Battery allows = 1440.0s
 ✅ Taxi 1 accepted
 
 Detected SAME_PATH_CONFLICT between Taxi 1 and Taxi 2, shared_nodes=18, ratio=0.85
-⏱️ SAME_PATH_CONFLICT resolved: Taxi 2 delayed by 30.0 seconds
+ SAME_PATH_CONFLICT resolved: Taxi 2 delayed by 30.0 seconds
 
 --- FINAL FLIGHT SUMMARY ---
 Taxi 1 | ON TIME | Total Time: 420.0s
