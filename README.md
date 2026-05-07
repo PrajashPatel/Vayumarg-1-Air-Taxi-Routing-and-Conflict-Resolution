@@ -79,31 +79,14 @@ Vayumarg-1 is the starting prototype for this broader idea.
 
 ---
 
-## Requirements
-
-- Python 3.8+
-- `osmnx`
-- `networkx`
-- `shapely`
-- `matplotlib`
-
-Install dependencies with:
-
-```bash
-pip install osmnx networkx shapely matplotlib
-
-Paste this after your **Requirements** section. I added space for your two photos: one city map and one routing output.
-
-```markdown
----
 
 ## Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/vayumarg-1.git
-cd vayumarg-1
+git clone https://github.com/PrajashPatel/Vayumarg-1-Air-Taxi-Routing-and-Conflict-Resolution.git
+cd Vayumarg-1-Air-Taxi-Routing-and-Conflict-Resolution
 ```
 
 Create a virtual environment:
@@ -124,7 +107,15 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-Install the required dependencies:
+## Requirements
+
+- Python 3.8+
+- `osmnx`
+- `networkx`
+- `shapely`
+- `matplotlib`
+
+Install dependencies with:
 
 ```bash
 pip install osmnx networkx shapely matplotlib
@@ -137,7 +128,7 @@ pip install osmnx networkx shapely matplotlib
 Run the Python script:
 
 ```bash
-python air_taxi_simulation.py
+python multidrone_uam.py
 ```
 
 The program will:
